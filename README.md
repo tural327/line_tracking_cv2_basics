@@ -16,6 +16,6 @@ For track lines I decided to find shape of line from each side of images
 * End of the part each line arrays were added main image
 
 # For apply all of this added def line() func
-- [ ] [Result](https://www.linkedin.com/feed/update/urn:li:ugcPost:6790387384916750336/)
+* [Result](https://www.linkedin.com/feed/update/urn:li:ugcPost:6790387384916750336/)
 
 - [main] ![](https://github.com/tural327/line_tracking_cv2_basics/blob/main/res_project.png)
